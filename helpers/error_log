@@ -1,0 +1,2 @@
+[09-Apr-2021 06:06:11 UTC] PHP Notice:  Undefined index: profilepicture in /home/brsclwzz/torothemes.com/demo/torofilm/wp-content/themes/torofilm/helpers/edit-author.php on line 8
+[09-Apr-2021 06:06:11 UTC] PHP Notice:  Undefined variable: new_file_mime in /home/brsclwzz/torothemes.com/demo/torofilm/wp-content/themes/torofilm/helpers/edit-author.php on line 89
